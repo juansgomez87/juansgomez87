@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 **juansgomez87/juansgomez87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
