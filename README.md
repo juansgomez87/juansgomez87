@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juansgomez87&label=Views&color=613583&style=flat" alt="juansgomez87" /> </p>
 
-- 🔭 I’m currently finishing my PhD at the [Music Technology Group (Universitat Pompeu Fabra)](https://www.upf.edu/web/mtg). My research is focused on creating human-centric machine learning approaches for music emotion recognition. 
-- 🌱 I’m currently learning about probabilistic generative models.
+- 🔭 I’m finished my PhD at the [Music Technology Group (Universitat Pompeu Fabra)](https://www.upf.edu/web/mtg). My research is focused on creating human-centric machine learning approaches for music emotion recognition. 
+- 🌱 I’m currently learning about generative models.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juansgomez87&show_icons=true&theme=merko&locale=en&layout=compact" alt="juansgomez87" /></p>
--->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juansgomez87&show_icons=true&theme=merko&cache_seconds=0&locale=en" alt="juansgomez87" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juansgomez87&show_icons=true&theme=merko&cache_seconds=0&locale=en" alt="juansgomez87" /></p>-->
