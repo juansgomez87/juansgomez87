@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Juan Gómez-Cañón</h1>
-<h3 align="center">I'm a PhD Student from Colombia 🇨🇴</h3>
+<h3 align="center">I'm a ML Reserach Scientist from Colombia 🇨🇴</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juansgomez87&label=Views&color=613583&style=flat" alt="juansgomez87" /> </p>
 
