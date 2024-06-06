@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juansgomez87&label=Views&color=613583&style=flat" alt="juansgomez87" /> </p>
 
-- 🔭 I’m finished my PhD at the [Music Technology Group (Universitat Pompeu Fabra)](https://www.upf.edu/web/mtg). My research is focused on creating human-centric machine learning approaches for music emotion recognition. 
+- 🔭 I’m finished my PhD at the [Music Technology Group (Universitat Pompeu Fabra)](https://www.upf.edu/web/mtg). My research is focused on creating human-centric, trustworthy machine learning approaches for music emotion recognition. 
 - 🌱 I’m currently learning about generative models.
 
 <h3 align="left">Connect with me:</h3>
