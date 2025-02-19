@@ -14,19 +14,21 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Juan Gómez-Cañón</h1>
+<h1 align="center">Hi, I'm Juan S. Gómez-Cañón</h1>
 <h3 align="center">I'm a ML Research Scientist from Colombia 🇨🇴</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juansgomez87&label=Views&color=613583&style=flat" alt="juansgomez87" /> </p>
 
-- 🔭 I’m finished my PhD at the [Music Technology Group (Universitat Pompeu Fabra)](https://www.upf.edu/web/mtg). My research is focused on creating human-centric, trustworthy machine learning approaches for music emotion recognition. 
-- 🌱 I’m currently learning about generative models.
+- 🌱 I’m currently a Postdoctoral scholar at the Division of Interdisciplinary Brain Science (DIBS) at Stanford University. 
+- 🔭 I finished my PhD at the [Music Technology Group (Universitat Pompeu Fabra)](https://www.upf.edu/web/mtg). My research is focused on creating human-centric, trustworthy machine learning approaches for music emotion recognition. 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/juan_s_gomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juan_s_gomez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juan-sebastián-gómez-cañón-69a28365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-sebastián-gómez-cañón-69a28365" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=IvIQqUwAAAAJ"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Juan Sebastián Gomez-Cañón" height="30" width="40" /></a> </p>
+<a href="https://profiles.stanford.edu/juan-gomez-canon"><img align="center" src="https://www.kindpng.com/picc/m/135-1351636_stanford-logo-png-transparent-png.png" alt="Juan Sebastián Gomez-Cañón" height="30" width="40" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
