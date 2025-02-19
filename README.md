@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/juan_s_gomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juan_s_gomez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juan-sebastián-gómez-cañón-69a28365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-sebastián-gómez-cañón-69a28365" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=IvIQqUwAAAAJ"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Juan Sebastián Gomez-Cañón" height="30" width="40" /></a> 
-<a href="https://profiles.stanford.edu/juan-gomez-canon"><img align="center" src="https://w7.pngwing.com/pngs/606/987/png-transparent-stanford-university-stanford-cardinal-football-stanford-cardinal-men-s-basketball-stanford-tree-university-stanford-university-stanford-cardinal-football-stanford-cardinal-men-s-thumbnail.png" alt="Juan Sebastián Gomez-Cañón" width="40" /></a> </p>
+<a href="https://profiles.stanford.edu/juan-gomez-canon"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" alt="Juan Sebastián Gomez-Cañón" width="40" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pallets/flask/refs/heads/main/docs/_static/shortcut-icon.png" alt="flask" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
